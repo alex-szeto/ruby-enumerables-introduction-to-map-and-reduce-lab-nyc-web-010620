@@ -33,7 +33,7 @@ def reduce_to_total(source_array, starting_point)
     total += number
   }
   if starting_point == nil
-    return starting_point
+    return total
   else
     return total + start_point
 end

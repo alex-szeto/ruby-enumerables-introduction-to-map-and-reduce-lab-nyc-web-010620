@@ -7,4 +7,22 @@ def map_to_negativize(source_array)
   return output_array
 end
 
-def 
+def map_to_no_change(source_array)
+
+end
+
+def map_to_no_change(source_array)
+
+end
+
+def map_to_no_change(source_array)
+
+end
+
+def map_to_no_change(source_array)
+
+end
+
+def map_to_no_change(source_array)
+
+end

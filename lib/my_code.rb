@@ -6,3 +6,5 @@ def map_to_negativize(source_array)
   }
   return output_array
 end
+
+def 
